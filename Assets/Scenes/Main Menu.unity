@@ -313,9 +313,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: like seriously if someone else could build an entire cathedral for 20 dollars
-    and a pat on the head so can you buddy. honestly how does ------ even stand you,
-    anyone can do the job that you're doing so you better make it quick...
+  m_text: In my area, there is this portion of the park that could use some cleaning
+    and no one else has wanted to do it....
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 926b2b1fc81253e4e97d5e9ce649afe3, type: 2}
   m_sharedMaterial: {fileID: -5296063200041724921, guid: 926b2b1fc81253e4e97d5e9ce649afe3, type: 2}
@@ -324,8 +323,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 1795162112
+  m_fontColor: {r: 0, g: 0, b: 0, a: 0.41960785}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

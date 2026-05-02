@@ -1,0 +1,43 @@
+{
+  "tilesetName": "Scene Overview.png",
+  "tileSize": 16,
+  "tilesetCols": 48,
+  "tilesetRows": 48,
+  "layers": [
+    {
+      "name": "New Layer 8",
+      "tiles": [
+        {
+          "x": 24,
+          "y": -9,
+          "symbol": 944
+        },
+        {
+          "x": 24,
+          "y": -10,
+          "symbol": 944
+        },
+        {
+          "x": 24,
+          "y": -11,
+          "symbol": 944
+        },
+        {
+          "x": 24,
+          "y": -13,
+          "symbol": 944
+        },
+        {
+          "x": 23,
+          "y": -14,
+          "symbol": 944
+        },
+        {
+          "x": 22,
+          "y": -15,
+          "symbol": 944
+        }
+      ]
+    }
+  ]
+}

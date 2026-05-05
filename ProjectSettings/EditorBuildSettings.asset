@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/HubLevel.unity
     guid: 47c08bba825e9a34f8d27b8c474e3ecc
   - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
+    path: Assets/Scenes/luka.unity
     guid: e0f7adddde40ef34fa3c53ab42582bde
   - enabled: 1
     path: Assets/Scenes/Credits.unity

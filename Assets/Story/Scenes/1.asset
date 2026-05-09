@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c242788f95b7bb448cb84cb0cb44388, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Hey. Do you mind?
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  - text: What do you want?
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: ...
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: Are you serious..?!
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: Yup! I am!
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  - text: I am NOT cleaning up this park.
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: Hey! C'mon! You're the only one that actually followed me here! No turning
+      back now!
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  - text: This is unbelievable...
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: Okay! Let's get moving! First, I need to you pick up the trash that people
+      left here.
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  - text: Why couldn't you do that yourse-!
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: And also! I'll give you this phone.
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  - text: Just in case people need help and I'm not around.
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  - text: You can see your first quest by pressing ESC to open your phone!
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  - text: Huh-
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: Bye now! Pick up all the trash you can!
+    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
+  background: {fileID: 21300000, guid: 0fd408b5c7811c04b92af447c17b64f8, type: 3}
+  nextScene: {fileID: 0}

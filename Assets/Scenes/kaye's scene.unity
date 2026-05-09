@@ -7975,7 +7975,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 696cd09b848267a4180ccf533268b0fd, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1011441895
+=======
+--- !u!1 &1153569864
+>>>>>>> e86013503c0e5a58377e0f39a089021c4d9bc42f
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7983,16 +7987,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1011441896}
   - component: {fileID: 1011441898}
   - component: {fileID: 1011441897}
   m_Layer: 5
   m_Name: Screen
+=======
+  - component: {fileID: 1153569866}
+  - component: {fileID: 1153569865}
+  m_Layer: 0
+  m_Name: QuestUIController
+>>>>>>> e86013503c0e5a58377e0f39a089021c4d9bc42f
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!224 &1011441896
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8013,11 +8025,15 @@ RectTransform:
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1011441897
+=======
+--- !u!114 &1153569865
+>>>>>>> e86013503c0e5a58377e0f39a089021c4d9bc42f
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1011441895}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -8044,12 +8060,34 @@ MonoBehaviour:
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1011441898
 CanvasRenderer:
+=======
+  m_GameObject: {fileID: 1153569864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7da5a03b8cf90e4d938a44bbe1fbdba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1153569866
+Transform:
+>>>>>>> e86013503c0e5a58377e0f39a089021c4d9bc42f
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1011441895}
   m_CullTransparentMesh: 1
+=======
+  m_GameObject: {fileID: 1153569864}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 610.1763, y: 304.98544, z: -3.3912106}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> e86013503c0e5a58377e0f39a089021c4d9bc42f
 --- !u!1001 &1231176967
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11370,5 +11408,9 @@ SceneRoots:
   - {fileID: 1863911299}
   - {fileID: 882607256}
   - {fileID: 1231176967}
+<<<<<<< HEAD
   - {fileID: 743050414}
   - {fileID: 2125766242}
+=======
+  - {fileID: 1153569866}
+>>>>>>> e86013503c0e5a58377e0f39a089021c4d9bc42f

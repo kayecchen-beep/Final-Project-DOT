@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   sentences:
-  - text: Hey. Do you mind?
+  - text: Hey. Do you mind? (Press SPACE to continue)
     speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
   - text: What do you want?
     speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
@@ -43,7 +43,7 @@ MonoBehaviour:
     speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
   - text: Huh-
     speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
-  - text: Bye now! Pick up all the trash you can!
+  - text: Bye now! Pick up all the trash you can! (Press BUTTON)
     speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
   background: {fileID: 21300000, guid: 0fd408b5c7811c04b92af447c17b64f8, type: 3}
   nextScene: {fileID: 0}

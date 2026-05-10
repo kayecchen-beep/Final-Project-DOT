@@ -290,7 +290,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -356, y: 52}
+  m_AnchoredPosition: {x: -366, y: 52}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &394125733
@@ -313,8 +313,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: In my area, there is this portion of the park that could use some cleaning
-    and no one else has wanted to do it....
+  m_text: This park is a mess and you're the only one out to clean it! ...
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 926b2b1fc81253e4e97d5e9ce649afe3, type: 2}
   m_sharedMaterial: {fileID: -5296063200041724921, guid: 926b2b1fc81253e4e97d5e9ce649afe3, type: 2}
@@ -1314,7 +1313,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -100, y: -286}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1093426762

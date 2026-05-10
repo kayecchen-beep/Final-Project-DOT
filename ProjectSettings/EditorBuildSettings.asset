@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Arena_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HubLevel.unity
     guid: 47c08bba825e9a34f8d27b8c474e3ecc
   - enabled: 1
@@ -18,9 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Credits.unity
     guid: a8636518e528d8641a0b5f3d5d8cbd75
   - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: 8b3620bca3dc36642a4de2258457d58c
+  - enabled: 1
     path: Assets/Scenes/Visual Novel.unity
     guid: 51b6ca8fb40f6c649b7f7a0f412bac32
-  - enabled: 1
-    path: Assets/Scenes/kaye's scene.unity
-    guid: c5ce3dabdde153d47b1a717bd82c4259
   m_configObjects: {}

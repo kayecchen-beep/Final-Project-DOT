@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   sentences:
-  - text: Hey. Do you mind? (Press SPACE to continue)
+  - text: Hey. Do you mind?
     speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
   - text: What do you want?
     speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
@@ -39,11 +39,13 @@ MonoBehaviour:
     speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
   - text: Just in case people need help and I'm not around.
     speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
-  - text: You can see your first quest by pressing ESC to open your phone!
+  - text: Bye now! Pick up all the trash you can!
     speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
-  - text: Huh-
+  - text: That guy was weird...
     speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
-  - text: Bye now! Pick up all the trash you can! (Press BUTTON)
-    speaker: {fileID: 11400000, guid: 123481bb458127e4f9f183ababf7ea01, type: 2}
-  background: {fileID: 21300000, guid: 0fd408b5c7811c04b92af447c17b64f8, type: 3}
-  nextScene: {fileID: 0}
+  - text: Well, I guess there's nothing else to do.
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  - text: Let's get to work.
+    speaker: {fileID: 11400000, guid: fba42ca08d7b97b4db70b83b608d9e69, type: 2}
+  background: {fileID: 21300000, guid: 9f8587617806c854284d2dd312ae2acd, type: 3}
+  nextScene: {fileID: 11400000, guid: e1e1702d8172f3b46866330b1346ba92, type: 2}
